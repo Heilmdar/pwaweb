@@ -1,7 +1,7 @@
 {
-    "name": "#Practica1",
-    "short_name": "#Practica1",
-    "description": "Esta es una página PWA",
+    "name": "Evaluación",
+    "short_name": "Dental Mak",
+    "description": "Consultorio Dental",
     "background_color": "#2B2B2B",
     "theme_color": "#F0DB4F",
     "orientation": "portrait",
@@ -10,41 +10,31 @@
     "scope": "./",
     "lang": "es-MX",
     "icons": [{
-            "src": "./img/icon_1024.png",
+            "src": "./img/logo612.jpg",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "./img/icon_512.png",
+            "src": "./img/logo128.jpg",
             "sizes": "512x512",
             "type": "image/png"
         },
 
         {
-            "src": "./img/icon_256.png",
+            "src": "./img/logo100.jpg",
             "sizes": "256x256",
             "type": "image/png"
         },
 
         {
-            "src": "./img/icon_128.png",
+            "src": "./img/logo64.jpg",
             "sizes": "128x128",
             "type": "image/png"
         },
 
         {
-            "src": "./img/icon_64.png",
+            "src": "./img/logo32.jpg",
             "sizes": "64x64",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/icon_32.png",
-            "sizes": "32x32",
-            "type": "image/png"
-        },
-        {
-            "src": "./img/favicon.png",
-            "sizes": "16x16",
             "type": "image/png"
         }
     ]
